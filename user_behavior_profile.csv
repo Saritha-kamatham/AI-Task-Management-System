@@ -1,0 +1,11 @@
+User_ID,Skill_Level,Avg_Completion_Time,Tasks_Completed,Current_Workload,Preferred_Task_Type,Performance_Score
+U01,2,4.69 hrs,75,4.5 hrs,Technical,0.51
+U02,2,4.84 hrs,70,4.5 hrs,Technical,0.68
+U03,5,1.69 hrs,98,3.88 hrs,Admin,0.91
+U04,1,2.84 hrs,74,1.2 hrs,Support,0.78
+U05,5,4.4 hrs,70,3.61 hrs,Admin,0.89
+U06,1,2.54 hrs,76,4.31 hrs,Support,0.73
+U07,5,4.36 hrs,50,1.69 hrs,Support,0.85
+U08,3,1.84 hrs,64,4.0 hrs,Admin,0.82
+U09,5,1.53 hrs,69,1.58 hrs,Research,0.65
+U10,4,1.99 hrs,98,1.31 hrs,Admin,0.66
